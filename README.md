@@ -1,2 +1,2 @@
 # MatrixPlus
-Переключитесь на develop
+Разработка matrix.h на С++

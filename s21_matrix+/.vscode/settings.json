@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "__nullptr": "cpp",
+        "cmath": "cpp",
+        "compare": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "stdexcept": "cpp"
+    }
+}
